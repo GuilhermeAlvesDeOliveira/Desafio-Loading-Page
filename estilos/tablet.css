@@ -1,0 +1,30 @@
+
+@media screen and (max-width: 900px) {
+
+
+    div.produtos {
+        display: block;
+        text-align: center;
+    }
+    
+    div.produto2 {
+        background-color: white;
+    }
+
+
+    header menu h1 {
+        font-size: 3em;
+        text-align: center;
+    }
+
+    header menu {
+        display: block;
+     }
+
+    header menu div a {
+        color: black;
+        border: none;
+        font-size: 20px;
+    }
+
+}
